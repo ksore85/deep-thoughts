@@ -36,3 +36,4 @@ const Thought = model('Thought', thoughtSchema);
 
 module.exports = Thought;
 
+
